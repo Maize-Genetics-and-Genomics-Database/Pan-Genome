@@ -28,9 +28,9 @@ Note that determining inflation size (I) for MCL is probably one of the most imp
 
 An inflation size of 2.0 is about standard according to literature:
 
-microbe cluster size: https://aem.asm.org/content/79/24/7696
-brassica cluster size: https://www.nature.com/articles/s41477-019-0577-7
-soybean cluster size: https://www.sciencedirect.com/science/article/pii/S0092867420306188
+Microbe cluster size: https://aem.asm.org/content/79/24/7696
+Brassica cluster size: https://www.nature.com/articles/s41477-019-0577-7
+Soybean cluster size: https://www.sciencedirect.com/science/article/pii/S0092867420306188
 
 #### a) Concatentate all the pairwise dagchainer outputs into one file containing only the query and subject CDS gene model IDs:
 
