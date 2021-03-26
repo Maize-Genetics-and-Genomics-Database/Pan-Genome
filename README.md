@@ -2,7 +2,7 @@
 Pan-genome methods used by MaizeGDB for the pan-gene tab.
 
 ### Required software
-1) Blast+ 2.7.1
+1) Blast
 2) DagChainer http://dagchainer.sourceforge.net/
 3) MCL https://micans.org/mcl/
 
